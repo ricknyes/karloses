@@ -26,7 +26,7 @@
         },
         "bot_token": {
             "description": "توكن البوت",
-            "value": "6906376293:AAHjGArcNDAIXo7aKE6RAmOijIWw30VYhuw",
+            "value": "6906376293:AAHqNh8RD6mKIYFUq7FP_WuX6kGmztlphsI",
             "required": true
     }
   }
